@@ -43,5 +43,36 @@ run-mac:	xhost
 	-v ~/[Directory Folder]/home/docker \
 	handson
 ```
-Kita dapat mengganti [Directory Folder] dengan directory folder yang dipakai
+Kita dapat mengganti `[Directory Folder]` dengan directory folder yang dipakai
+
+Selanjutnya buka terminal pada direktori folder tersebut lalu masukan perintah build seperti berikut:
+```
+make build-handson
+```
+
+Lalu kita dapat mengecek apakah terdpat repository `handson` setelah proses build selesai dengan menjalankan perintah images untuk melihat daftar images yang terdapat local storage. perintah dari langkah tersebut adalah sebagai berikut:
+```
+docker images
+```
+
+Ketika proses build telah selesai atau setelah mengecek images yang terdapat dalam local storage, jalankan perintah run sesuai sistem operasi yang digunakan sebagai berikut :
+### Windows
+```
+make run-windows
+```
+### Linux
+```
+make run-linux
+```
+### Mac
+```
+make run-mac
+```
+
+Dan langkah terakhir yang digunakan untuk menjalankan pygame melalui kontainer yang telah dibuat adalah sebagai berikut:
+```
+python3 aliens.py
+```
+
+
 
