@@ -74,7 +74,7 @@ Dan langkah terakhir yang digunakan untuk menjalankan pygame melalui kontainer y
 python3 aliens.py
 ```
 
-# Video Penjelasan
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)](https://www.youtube.com/watch?v=iQpaFnFqYJw)
+# Video Demo Kontainer
+[![Testing](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)](https://www.youtube.com/watch?v=iQpaFnFqYJw)
 
 
