@@ -1,6 +1,6 @@
 # Sistem-Operasi-Docker-2---Aliens
 # Nama dan NIM
-Nama  : Kevinsien Heldrayetno
+Nama  : Kevinsien Heldrayetno <br />
 NIM   : 120140174
 # Aliens
 Program yang saya gunakan adalah program yang dibuat oleh [Anthony Oliver](https://github.com/xamox) yang berupa aplikasi permainan yang terinspirasi dari Alien Shooter. Permainan ini memiliki tujuan untuk memusnahkan alien dan bertahan hidup dari serangan alien dan mendapatkan skor yang tinggi. permainan ini berakhir ketika nyawa dari pemain habis
