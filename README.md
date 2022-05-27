@@ -75,6 +75,6 @@ python3 aliens.py
 ```
 
 # Video Demo Kontainer
-[![Testing](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)](https://www.youtube.com/watch?v=iQpaFnFqYJw)
+[![Video Demo Kontainer](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)](https://www.youtube.com/watch?v=iQpaFnFqYJw)
 
 
