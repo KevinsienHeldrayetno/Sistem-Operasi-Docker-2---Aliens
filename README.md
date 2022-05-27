@@ -7,7 +7,7 @@ Program yang saya gunakan adalah program yang dibuat oleh [Anthony Oliver](https
 # Cara Menjalankan Kontainer
 Hal ini dapat dimulai dengan mengclone repository lalu pindahkan ke dalam folder yang akan digunakan. Kita harus mengganti directory yang terdapat dalam file `Makefile`.
 ## Cara mengganti directory dalam Makefile
-`build-handson:
+```build-handson:
 	docker build . -t handson
 
 xhost:
@@ -41,6 +41,6 @@ run-mac:	xhost
 	-v ~/.config/pulse:/run/user/1000/pulse \
 	-v ~/[Directory Folder]/home/docker \
 	handson
-`
+```
 Kita dapat mengganti [Directory Folder] dengan directory folder yang dipakai
 
