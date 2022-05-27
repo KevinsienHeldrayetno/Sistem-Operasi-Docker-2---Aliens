@@ -75,6 +75,6 @@ python3 aliens.py
 ```
 
 # Video Penjelasan
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=iQpaFnFqYJw))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iQpaFnFqYJw/0.jpg)](https://www.youtube.com/watch?v=iQpaFnFqYJw)
 
 
